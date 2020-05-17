@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  link: MyString
+  body: MyString
+  upvotes: 1
+  downvotes: 1
+  deleted: false
+  edit_timestamp: 2020-05-17 13:12:27
+
+two:
+  title: MyString
+  link: MyString
+  body: MyString
+  upvotes: 1
+  downvotes: 1
+  deleted: false
+  edit_timestamp: 2020-05-17 13:12:27

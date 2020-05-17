@@ -6,7 +6,7 @@ class CreateComments < ActiveRecord::Migration[5.2]
       t.integer :downvotes
       t.boolean :deleted
       t.timestamp :edit_timestamp
-
+      
       t.timestamps
     end
   end
